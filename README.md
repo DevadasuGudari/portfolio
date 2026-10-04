@@ -222,11 +222,12 @@ Modern automotive landing page focused on visual presentation and responsive des
 
 ### 🎬 Netflix Clone
 
-Netflix-inspired streaming interface created to practice frontend layouts and UI design.
+Netflix-inspired streaming interface created to practice frontend layouts and UI deplatfor
 
-### 🎵 Spotify Clone
+### 🎬 Cloneflix
 
-Music streaming interface inspired by modern music platforms.
+Movie streaming platform inspired by modern OTT platforms.
+
 
 ### 📖 HTML Reference Website
 
