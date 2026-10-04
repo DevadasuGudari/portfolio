@@ -249,10 +249,6 @@ Interactive demonstration of CSS sibling selectors.
 
 Reusable tooltip UI component created using HTML and CSS.
 
-### 🍽️ Restaurant Landing Page
-
-Restaurant-themed responsive website focused on attractive presentation and layout.
-
 ---
 
 # 🛠️ Tech Stack
