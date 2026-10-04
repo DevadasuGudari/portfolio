@@ -57,9 +57,6 @@ The portfolio is designed with a modern dark interface, responsive layouts, smoo
 
 <br><br>
 
-**Live Website**
-
-🔗 https://devadas-portfolio.netlify.app/
 
 </p>
 
