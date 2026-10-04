@@ -220,9 +220,9 @@ The portfolio features a collection of frontend projects and UI experiments.
 
 Modern automotive landing page focused on visual presentation and responsive design.
 
-### 🎬 Netflix Clone
+### 🍽️ Foodies-Kitchen
 
-Netflix-inspired streaming interface created to practice frontend layouts and UI deplatfor
+Modern restaurant website created to practice frontend layouts, responsive UI, food menu sections, and interactive design.
 
 ### 🎬 Cloneflix
 
