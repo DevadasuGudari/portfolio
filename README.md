@@ -220,13 +220,14 @@ The portfolio features a collection of frontend projects and UI experiments.
 
 Modern automotive landing page focused on visual presentation and responsive design.
 
-### 🎬 Netflix Clone
+### 🍽️ Foodies-Kitchen
 
-Netflix-inspired streaming interface created to practice frontend layouts and UI design.
+Modern restaurant website created to practice frontend layouts, responsive UI, food menu sections, and interactive design.
 
-### 🎵 Spotify Clone
+### 🎬 Cloneflix
 
-Music streaming interface inspired by modern music platforms.
+Movie streaming platform inspired by modern OTT platforms.
+
 
 ### 📖 HTML Reference Website
 
@@ -247,10 +248,6 @@ Interactive demonstration of CSS sibling selectors.
 ### 💡 Tooltip Component
 
 Reusable tooltip UI component created using HTML and CSS.
-
-### 🍽️ Restaurant Landing Page
-
-Restaurant-themed responsive website focused on attractive presentation and layout.
 
 ---
 
