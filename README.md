@@ -1,5 +1,4 @@
 # 🌐 DEVADASU — PERSONAL PORTFOLIO
-
 <p align="center">
   <img src="./images/favicon.png" alt="Devadasu Portfolio" width="100">
 </p>
